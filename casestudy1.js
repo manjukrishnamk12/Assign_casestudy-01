@@ -18,7 +18,7 @@ function isPrime(array) {
         console.log('The first elememt of the array is '+ fElement+' and its a prime');
     }
 }
-isPrime([2,10,54,67,80]);
+isPrime([23,10,54,67,80]);
 
 
 // Write a JavaScript program to find the most frequent item of an array
